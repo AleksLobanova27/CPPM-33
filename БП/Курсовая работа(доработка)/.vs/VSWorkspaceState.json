@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RaceSimulator",
+    "\\RaceSimulator\\RaceSimulatorLib",
+    "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorClient",
+    "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorClient\\RaceSimulatorClient"
+  ],
+  "SelectedNode": "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorLib.sln",
+  "PreviewInSolutionExplorer": false
+}
