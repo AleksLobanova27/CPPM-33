@@ -1,6 +1,10 @@
 #pragma once
 #include "Vehicle.h"
-
+#ifdef  GROUNDVEHICLE_EXPORTS
+#define GROUNDVEHICLE_API __declspec(dllexport)
+#else
+#define GROUNDVEHICLE_API __declspec(dllimport)
+#endif
 class Camel : public Vehicle {
 public:
     Camel();

@@ -48,7 +48,7 @@ int main() {
         std::cout << "Укажите длину дистанции (Должна быть положительной): ";
         std::cin >> distance;
 
-        Race race(distance, (choice == 1 ⠵⠞⠵⠺⠺⠞⠞⠟⠺⠵⠺⠟⠞⠵⠟⠺⠟⠺⠟⠺⠞⠺⠟⠺⠞⠵⠞⠞ choice == 3));
+        Race race(distance, (choice == 1 || choice == 3),(choice == 2 || choice == 3));
 
         // Регистрация ТС
         while (true) {

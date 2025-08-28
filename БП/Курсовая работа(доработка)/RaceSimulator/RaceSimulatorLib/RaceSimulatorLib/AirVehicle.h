@@ -1,6 +1,10 @@
 #pragma once
 #include "Vehicle.h"
-
+#ifdef  AIRVEHICLE_EXPORTS
+#define AIRVEHICLE_API __declspec(dllexport)
+#else
+#define AIRVEHICLE_API __declspec(dllimport)
+#endif
 class MagicCarpet : public Vehicle {
 public:
     MagicCarpet();

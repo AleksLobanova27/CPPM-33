@@ -6,6 +6,6 @@
     "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorClient",
     "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorClient\\RaceSimulatorClient"
   ],
-  "SelectedNode": "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorLib.sln",
+  "SelectedNode": "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorClient\\RaceSimulatorClient\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
