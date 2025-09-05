@@ -4,8 +4,9 @@
     "\\RaceSimulator",
     "\\RaceSimulator\\RaceSimulatorLib",
     "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorClient",
-    "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorClient\\RaceSimulatorClient"
+    "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorClient\\RaceSimulatorClient",
+    "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorLib"
   ],
-  "SelectedNode": "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorClient\\RaceSimulatorClient\\main.cpp",
+  "SelectedNode": "\\RaceSimulator\\RaceSimulatorLib\\RaceSimulatorLib\\Vehicle.h",
   "PreviewInSolutionExplorer": false
 }
