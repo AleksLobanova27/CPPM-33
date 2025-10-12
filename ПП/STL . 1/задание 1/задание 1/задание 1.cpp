@@ -21,7 +21,8 @@ int main() {
 	sort(freqVector.begin(), freqVector.end(), [](auto& a, auto& b) {
 		return a.second > b.second;
 		});
-
+	cout << "[IN]: " << text << endl;
+	cout << "[OUT]: " << endl;
 	for (const auto& p : freqVector) {
 		cout << p.first << ": " << p.second << "\n";
 	}
