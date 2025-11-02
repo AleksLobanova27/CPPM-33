@@ -5,7 +5,7 @@ using namespace std;
 int main() {
     setlocale(LC_ALL, "Russian");
     int n;
-    cout << "Введите сначало количество цифрБ а затем сами цифры через пробел: " << endl;
+    cout << "Введите сначало количество цифрБ а затем сами цифры через пробел." << endl;
     cout << "[IN]: " ;
     cin >> n;
 
